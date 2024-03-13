@@ -6,5 +6,11 @@ public class Persona {
         this.nombre = nombre;
         this.edad = edad;
     }
+    //Metodos getter y setter para acceder a las variables de la clase
+    public String getNombre() { return nombre;}
+    public void setNombre(String nombre) {this.nombre=nombre;}
+    
+    public int getEdad() {return edad;}
+    public void setEdad(int edad) {this.edad = edad;}
 
 }
