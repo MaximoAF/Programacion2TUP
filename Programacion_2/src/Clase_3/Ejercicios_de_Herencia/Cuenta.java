@@ -1,4 +1,4 @@
-package Clase_3.Hejercicios_de_Herencia;
+package Clase_3.Ejercicios_de_Herencia;
 
 public class Cuenta {
     protected float saldo;
